@@ -4,18 +4,18 @@ I currently lead AI product initiatives at Deloitte Canada, where I’ve envisio
 
 🔧 My Stack & Focus Areas
 
-    **Agentic AI**: CrewAI, LangChain, LangGraph, LangSmith
-    **LLM Engineering**: RAG, OpenAI API, LlamaIndex, Gemini, Serper, Perplexity
-    **Backend**: Python, FastAPI, REST, cloud-native deployments (Azure/GCP)
-    **Monitoring & Guardrails**: LangSmith, token cost tracking, evaluation utilities
-    **Consulting Innovation**: Human capital, org design, agile transformation, delivery
-    **Agile Program Management**: SAFe (Scaled Agile Framework), Scrum, Kanban, Large Program Delivery
+    Agentic AI: CrewAI, LangChain, LangGraph, LangSmith
+    LLM Engineering: RAG, OpenAI API, LlamaIndex, Gemini, Serper, Perplexity
+    Backend: Python, FastAPI, REST, cloud-native deployments (Azure/GCP)
+    Monitoring & Guardrails: LangSmith, token cost tracking, evaluation utilities
+    Consulting Innovation: Human capital, org design, agile transformation, delivery
+    Agile Program Management: SAFe (Scaled Agile Framework), Scrum, Kanban, Large Program Delivery
 
 🚀 Projects I’m Proud Of
 
 **Multi-Agent Research Assistant:** Designed and built a LangGraph-based system integrating web search, PDF parsing, and internal RAG pipelines to deliver synthesized insights for consulting teams. Reduced time to insight from weeks to days.
 
-**Agentified Delivery Framework: **Led the productization of an AI platform that breaks down the consulting lifecycle into reusable agents — from document intake to strategy synthesis. Actively being evaluated for enterprise rollout.
+**Agentified Delivery Framework:** Led the productization of an AI platform that breaks down the consulting lifecycle into reusable agents — from document intake to strategy synthesis. Actively being evaluated for enterprise rollout.
 
 🧠 Always Learning
 
