@@ -1,6 +1,6 @@
-Hi, I’m Pradeep Nadgir — AI Product Leader and former software engineer with 15+ years of experience delivering digital and AI-powered solutions across consulting, enterprise, and product environments.
+Hi, I’m Pradeep Nadgir — AI Product Leader and former management consultant and software engineer with 15+ years of experience delivering digital and AI-powered solutions across consulting, enterprise, and product environments.
 
-I currently lead AI product initiatives at Deloitte Canada, where I’ve envisioned, built, and deployed agentic GenAI solutions that enhance delivery speed, insight generation, and consulting effectiveness. My work focuses on transforming traditional workflows into modular AI agents — helping teams turn complex, manual research and delivery tasks into intelligent, semi-autonomous systems.
+I currently lead Agentic Commerce and AI productization initiatives at Moneris Canada. Prior to Moneris at Deloitte I’ve envisioned, built, and deployed agentic GenAI solutions that enhance delivery speed, insight generation, and consulting effectiveness. My work focuses on transforming traditional workflows into modular AI agents — helping teams turn complex, manual research and delivery tasks into intelligent, semi-autonomous systems.
 
 🔧 My Stack & Focus Areas
 
